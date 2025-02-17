@@ -1,0 +1,27 @@
+React.js Assignment:
+
+Instructions:
+Complete the following React.js assignments using functional
+components and Tailwind CSS for styling. Use the useState
+hook where necessary.
+
+1.Write a React component called TextUpdater with an
+input field. Use the useState hook to update and display
+the text as the user types.
+
+2.Create a React form with a text input and a submit button.
+When submitted, log the input value to the console.
+
+3.Build a UserCard component that takes name and email
+as props and displays them inside a styled card using
+Tailwind CSS.
+
+4.Create a Button component with Tailwind CSS that has a
+blue background, white text, rounded corners, and a hover
+effect that darkens the button. Additionally, add a click event
+that logs "Button clicked!" to the console.
+
+5.Develop a LoginForm component with email and password
+fields using useState for form handling and Tailwind CSS
+for styling. Display an alert with the entered details when
+submitted.
